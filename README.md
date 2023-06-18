@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Elvis Otieno
 - 🔭I’m am currently enrolled in: ALX_Africa /Holberton School Curriculum/
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning to become a full stack developer.
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me: elv.s.earl@gmail.com
 
